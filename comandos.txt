@@ -1,0 +1,330 @@
+    1  sudo apt updade
+    2  sudo apt install git vim ko
+    3  sudo apt install git vim kor
+    4  sudo apt install git vim kol
+    5  sudo apt install git vim koloupaint
+    6  pwd
+    7  ls
+    8  ls-
+    9  ls-l
+   10  ls -l
+   11  ls -lh
+   12  ls -lha
+   13  cd
+   14  cd /
+   15  pwd
+   16  ls
+   17  cd ~
+   18  pwd
+   19  /cd
+   20  cd /
+   21  cd -
+   22  cd /
+   23  cd-
+   24  cd -
+   25  ls -ih
+   26  ls -lh
+   27  mkdir
+   28  mkdir help
+   29  mkdir--help
+   30  mkdir --help
+   31  mkdir SENAC
+   32  ls
+   33  mkdir senac
+   34  ls
+   35  cd SENAC/
+   36  PWD
+   37  pwd
+   38  cd/
+   39  cd /
+   40  cd /home/higildamuendo/
+   41  cd
+   42  cs ~/SENAC/
+   43  PWD
+   44  mkdir -v I TAT PEN CAS
+   45  pwd
+   46  cd SENAC
+   47  mkdir -v TAT PEN CAS
+   48  ls -lh
+   49  cd TAT/
+   50  pwd
+   51  mkdir TEI TST
+   52  mkdir -v TEI TST
+   53  cd TEI
+   54  cd ..
+   55  cd . .
+   56  cd ..
+   57  cd ~/SENAC/TAT/TEI
+   58  .. /../T
+   59  .. /.. /T
+   60  cd .. /.. /T
+   61  cd .. /.. /PEN
+   62  cd ../../PEN
+   63  ls -lh
+   64  echo
+   65  echo SENAC TATUAPÉ
+   66  echo "SENAC TATUAPÉ"
+   67  echo "SENAC TATUAPe'Técnico em informático"
+   68  echo "SENAC TATUAPé "Técnico em informático"
+   69  echo "SENAC TATUAPé "Técnico em informático"
+   70  echo "SENAC TATUAPé "Técnico em informático" > testo.exe
+   71  echo "SENAC TATUAPé "Técnico em informático" >testo.exe
+   72  echo "SENAC TATUAPé Técnico em informático" > teste.exe
+   73  echo "Higilda Muendo" > teste01.exe
+   74  touch
+   75  echo >senac.txt
+   76  touch sesc.txt
+   77  ls
+   78  ls -lh
+   79  touch sesc.txt
+   80  ls -lh
+   81  echo Tatuapé > senac.txt
+   82  ls -lh
+   83  echo "SENAC PENHA "
+   84  ls -lh
+   85  sudo apt install git vim
+   86  git clone [200~https://github.com/higildamuendo/senac-tat~
+   87  git clone [200~https://github.com/higildamuendo/senac-tat
+   88  cd /home
+   89  git clone https://github.com/higildamuendo/senac-tat
+   90  tait/etc/servicces
+   91  cd SENAC/TAT/TEI
+   92  cat -n/etc/services|head -n3|tat -n
+   93  sudo update
+   94  sudo apt update
+   95  sudo apt upgrade
+   96  cd SENAC/TAT/TEI
+   97  touch senac.txt
+   98  touch senai.txt
+   99  ls-lh
+  100  ls -lh
+  101  encho"Tatuapé" > senac.txt
+  102  encho"guarulho" > senai.txt
+  103  encho "guarulho" > senai.txt
+  104  echo "guarulho" > senai.txt
+  105  echo "patuapé" > senai.txt
+  106  echo "santana" > senai.txt
+  107  cat -n senai.txt
+  108  echo "vila maria > senai.txt
+  109  cat -n senai.txt
+  110  echo "vila maria" > senai.txt
+  111  cat -n senai.txt
+  112  echo "Itaquera" >> senai.txt
+  113  cat -n senai.txt
+  114  encho"Bras">> senai.txt
+  115  encho"Bras" >> senai.txt
+  116  encho "Bras" >> senai.txt 
+  117  echo "Bras" >> senai.txt 
+  118  cat -n senai.txt
+  119  tac senai.txt 
+  120  tac - n senai.txt
+  121  tac -=n senai.txt
+  122  cd SENAC/TAT/TEI/
+  123  tail/etc/services
+  124  tail -n /etc/services
+  125  tail -n3 /etc/services
+  126  tail -n /etc/services
+  127  tail -n /etc/services 
+  128  tail -n3 /etc/services 
+  129  head -n3 /etc/services
+  130  cat -n /etc/services|tail -n3
+  131  cat -n /etc/services|head -n3
+  132  head/etc/services
+  133  head /etc/services
+  134  cat -n etc/services|head -n100|tat -n119
+  135  tail -n119 /etc/services|head -n3 
+  136  tail -n119 /etc/services|head -n3|cat -n100 
+  137  cat -n /etc/services|head -n200 |tail -n101
+  138  cat -n /etc/services|head -n200 |tail -n101 less
+  139  cat -n /etc/services|head -n200 |tail -n101 les
+  140  cat -n /etc/services|head -n200 |tail -n101 >vava.txt
+  141  ls -lh
+  142  cat -n /etc/services|head -n200 |tail -n101 >vava.txt less vava.txt
+  143  less vava.txt 
+  144  ls -lh
+  145  ls -lha
+  146  cat -n /etc/services|head -n200 |tail -n101 >vava.txt 
+  147  ls -lha
+  148  less vava.txt 
+  149  cp vava.txt ramos
+  150  ls -lh
+  151  ls -lha 
+  152  ls -lh ../
+  153  ls -lh ../../
+  154  cp vava.txt ../../PEN/
+  155  ls -lh../../PEN/
+  156  mkdir -v bkp
+  157  ls -lh
+  158  cp -v *txt bkp/
+  159  mv -v vava.txt vaamonde.md
+  160  ls -lh
+  161  ls 
+  162  mv -v ../TST/leandro.md
+  163  mv -v ramos ../TST/leandro.md
+  164  ls -lh
+  165  rm -v sesc.txt 
+  166  ../
+  167  cs../
+  168  cd ../
+  169  rm -v TEI/
+  170  rm -RV TST/
+  171  LS
+  172  rm -RV TST
+  173  rm -Rv TST
+  174  ls
+  175  cd ../
+  176  mkdir HgildaMuemdo
+  177  cd
+  178  ls
+  179  mkdir SESC
+  180  mkdir BEL
+  181  mkdir SAN
+  182  cd HigildaMuendo
+  183  cd hgildaMuendo
+  184  cd HgildaMuendo
+  185  cd HgildaMueMdo
+  186  cd HgildaMuemdo
+  187  cd ~$
+  188  cd
+  189  HgildaMuemdo mv
+  190  mv HgildaMuemdo 
+  191  rn -mvHgildaMuendo
+  192  rn -mvHgildaMuemdo
+  193  rn -mv HgildaMuemdo
+  194  mkdir HigildaMuendo
+  195  cd HigildaMuendo/
+  196  mkdir SESC
+  197  CD SESC/
+  198  cd SESC/
+  199  mkadir BEL
+  200  mkdir BEL
+  201  mkdir SAN
+  202  mkdir ITA
+  203  CD
+  204  cd
+  205  cd HigildaMuendo/
+  206  mkadir SENAI
+  207  mkdir SENAI
+  208  cd SENAI/
+  209  mkdir BRA
+  210  cd BRA/
+  211  LS
+  212  Ls
+  213  ls
+  214  cd ..
+  215  ls
+  216  cd BRA/
+  217  ls
+  218  pwd
+  219  cd ..
+  220  mkdir GUA
+  221  mkdir TAT
+  222  mkdir PJS
+  223  cd BRA/
+  224  mkadir torneira
+  225  mkdir torneira
+  226  cd ..
+  227  cd BRA/
+  228  mkdir Fresagem
+  229  mkdir Soldagem
+  230  cd ..
+  231  cd GUA/
+  232  mkdir Eletricidade
+  233  cd ..
+  234  cd TAT/
+  235  mkir Drywall
+  236  mkdir Drywall
+  237  cd ..
+  238  mkdir PJS
+  239  cd ..
+  240  cd SESC/
+  241  cd BEL/
+  242  mkdir danca
+  243  cd danca/
+  244  mkdir Dança Brasil
+  245  mkdir Dança de Salão
+  246  cd ..
+  247  cd SAN/
+  248  mkdir matacao.md
+  249  cd matacao.md/
+  250  mkdir Crawl
+  251  mkdir Peito
+  252  mkdir Costas
+  253  mkdir Borboleta
+  254  cd ..
+  255  cd ITA/
+  256  mkadir capoeira
+  257  mkdir capoeira
+  258  cd capoeira/
+  259  cd -
+  260  cd ..
+  261  ls
+  262  rm -rfv capoeira/
+  263  echo "Meia Lua de Compasso" > capoeira 
+  264* echo "Meia Lua de Compasso"> capoeira 0
+  265  echo "Meia Lua de Compasso">capoeira 
+  266  echo "Meia Lua de Compasso" >> capoeira 
+  267  touch capoeira.txt
+  268  encho "Meia Lua de Frente" > capoeira.txt 
+  269  enho "Meia Lua de Frente" > capoeira.txt 
+  270  echo "Meia Lua de Frente" > capoeira.txt 
+  271  echo "Meia Lua Compasso" >> capoeira.txt 
+  272  echo "Prisão" >> capoeira.txt 
+  273  cd ..
+  274  cd BRA
+  275  cd SENAI/
+  276  cd BRA/
+  277  cd torneira/
+  278  touch cal_nov_2024.txt
+  279  echo "Turma A:01/11 até 30" > cal_nov_2024.txt 
+  280  cd .. 
+  281  cd Fresagem/
+  282  echo "Turma B:01/12 até 31" > cal_dez_2024.txt 
+  283  cd ..
+  284  cd Soldagem/
+  285  touch cal_jan_2025.txt
+  286  echo "Turma c:01/01 até 31" > cal_dez_2025.txt 
+  287  cd ..
+  288  cd GUA/
+  289  cd Eletricidade/
+  290  touch cal_jan_2025.txt
+  291  echo "Turma c:01/01 até 31" > cal_jan_2025.txt 
+  292  cd ..
+  293  cd TAT
+  294  touch cal_jan_2025.txt
+  295  echo "Turma A:01/01 até 31" > cal_jan_2025.txt 
+  296  cd ..
+  297  cd PJS/
+  298  touch cal_jan_2025.sh
+  299  echo "Turma A:01/01 até 31" > cal_jan_2025.txt 
+  300  sudo apt install tree
+  301  cd ~
+  302  tree -h HigildaMuendo/
+  303  cd HigildaMuendo/
+  304  cd SESC/BEL/
+  305  touch danca.txt
+  306  echo "Danças brasileira" > danca.txt 
+  307  echo "Danças de salão" >> danca.txt 
+  308  cd ..
+  309  cd ITA/
+  310* touch matacao .md
+  311  cd ..
+  312  cd SAN/
+  313  touch matacao.md
+  314  echo "Borboleta" >> matacao.md 
+  315  echo "costas" >> matacao.md 
+  316  echo crawl" >> matacao.md 
+  317  ls
+  318  echo "Borboleta" >> matacao.md 
+  319  touch matacao.md
+  320  echo "Borboleta" >> matacao.md 
+  321  echo "Borboleta" >> costas.md 
+  322  echo peito" >> matacao.md 
+  323  sudo apt intall tree
+  324  less matacao.md 
+  325  cd 
+  326  tree -h HigildaMuendo/
+  327  history > comados.txt
+  328  ls
+  329* cat comandos.txt
+  330  history > comandos.txt
