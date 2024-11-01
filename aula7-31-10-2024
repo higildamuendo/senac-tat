@@ -1,0 +1,57 @@
+Objetivo da aula de hoje: 31/10/2024
+
+#01_ Iniciar o GNU/Linux Mint 21.3 (Virginia);
+#02_ Atualizar o Sistema Operacional;
+
+#03_ Conhecendo e Trabalhando com o Editor de Texto VIM
+
+Vídeo novo: 💻 BÁSICO do BÁSICO do Editor de Texto VIM utilizando o Linux Mint 20.3 Una x64 🐧🐧
+https://www.youtube.com/watch?v=KknZSuFsfmk
+
+Vídeo antigo: 🔴 VIM Básico com Linux Mint 19.2 Tina x64
+https://www.youtube.com/watch?v=u6Or0rFgltY
+
+Aurelio.net: https://aurelio.net/vim/
+
+#01:	Visualização
+#02: 	Esc Shift : 	Comando
+#03:	Insert (I):		Inserir
+		Insert	  :		Substituir
+#04:	Sair Forçado	! (Exclamação)
+--------------------------------------
+		Sair Salvando	:wq
+		Sair Salvando	:x 
+		Colar			Ctrl Shift V
+--------------------------------------
+		Explorar		:e.	listar os arquivos no diretório
+						:e nome_arquivo (TAB Funciona)
+--------------------------------------
+		Deletar			dd
+		Deletar Tudo	dG	(Destruir)
+		Desfazer		u	(Construir)
+		Refazer			Ctrl R
+		Ir para Fim		:$
+		Inicio 			:0
+		Número de Linha	:set number
+		Temporário		vim /tmp/senai.html
+---------------------------------------------------------
+Dividir a tela do editor de Texto VIM criando abas:
+Em cada aba abrir os seguintes arquivos
+
+#01 aba: /etc/services
+#02 aba: /etc/hostname
+#03 aba: /etc/hosts
+#04 aba: /etc/passwd
+
+#04_ FINALIZANDO, DESSA VEZ VAMOS FINALIZAR A INTEGRAÇÃO DO VSCODE COM O GIT E GITHUB
+
+Vídeo novo: 💻 BÁSICO do BÁSICO de Git e Github utilizando o Linux Mint 20.3 Una x64 🐧🐧
+https://www.youtube.com/watch?v=JDCYyjbrJu0
+
+Vídeo antigo: 🔴 GIT e GITHUB Básico com o Linux Mint 19.1 Tessa
+https://www.youtube.com/watch?v=hrmqRD2k5P0
+
+Vídeo do Python: 🤩 Configuração e Integração do Git e Github com o VSCode no GNU/Linux (Linux Mint 22) e Windows 10 🤩
+https://www.youtube.com/watch?v=VBxmsmPK60s
+
+Documentação do Git: https://git-scm.com/doc
